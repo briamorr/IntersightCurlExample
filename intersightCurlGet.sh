@@ -1,9 +1,11 @@
 #!/bin/bash
 #Intersight CURL GET example
 
+#Instructions:
 #Substitute apiKey value with APIkey from Intersight
 #Substitute SecretKey.txt file location with API secret key file from Intersight
 
+#Details:
 #apibodyDigest is SHA-256 digest of the payload, in the case of a GET request null
 #apiEndpoint is the endpoint URL in lower case, must be in lower case...
 #apiTime is RFC1123 time
